@@ -126,3 +126,16 @@ section .btntwo{
     100%{content: "Nalanda University";}
 }
 
+footer{
+    padding: 10px;
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+    
+    text-align: center;
+}
+
+footer a:hover{
+    color: white;
+}
+
